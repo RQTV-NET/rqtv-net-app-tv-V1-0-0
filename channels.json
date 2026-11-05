@@ -1,548 +1,399 @@
 [
-{
+  {
     "numero": 0,
-    "nome": "RQTV.NET",
-    "categoria": "Menu Principal",
-    "plataforma": "guia"
+    "rem": "RQTV.NET"
   },
   {
-    "id": 1,
+    "rem": "RQTV.NET",
     "numero": "01",
-    "nome": "RQTV.NET",
-    "categoria": "Programação Geral",
-    "videoIds": ["LqdKQVNseMk", "H39jKABZIYI"],
-    "playlistId": "PLJq9K3JnpGRQ",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["8AgZp5Cd5ls", ""],
+    "vinhetaPlaylistId": "PLJq9K3JnpGRQ",
+    "playlistId": "PLJq9K3JnpGRQ"
   },
   {
-    "id": 2,
+    "rem": "SBT",
     "numero": "02",
-    "nome": "SBT",
-    "categoria": "TV Aberta",
-    "videoIds": ["uLqXRKXOB8E"],
-    "playlistId": "UUR3TOnFWDeAlT-Ho6LueDmg",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["8AgZp5Cd5ls", "uLqXRKXOB8E"],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUR3TOnFWDeAlT-Ho6LueDmg"
   },
   {
-    "id": 3,
+    "rem": "SBT NEWS",
     "numero": "03",
-    "nome": "SBT NEWS",
-    "categoria": "Notícias",
-    "videoIds": [],
-    "playlistId": "UU376n347Ob5Lwzq2WGzF1AA",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UU376n347Ob5Lwzq2WGzF1AA"
   },
   {
-    "id": 4,
+    "rem": "SBT JORNALISMO",
     "numero": "04",
-    "nome": "SBT JORNALISMO",
-    "categoria": "Notícias",
-    "videoIds": [],
-    "playlistId": "UU-S82QSyHb-e3FddEO6Tq6w",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UU-S82QSyHb-e3FddEO6Tq6w"
   },
   {
-    "id": 5,
+    "rem": "CNN BRASIL",
     "numero": "05",
-    "nome": "CNN BRASIL",
-    "categoria": "Notícias",
-    "videoIds": [],
-    "playlistId": "UUvdwhh_fDyWccR42-rReZLw",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUvdwhh_fDyWccR42-rReZLw"
   },
   {
-    "id": 6,
+    "rem": "CNN MONEY",
     "numero": "06",
-    "nome": "CNN MONEY",
-    "categoria": "Economia & Notícias",
-    "videoIds": [],
-    "playlistId": "UUqfm5IQhpMlfeAWMmVL_uNg",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUqfm5IQhpMlfeAWMmVL_uNg"
   },
   {
-    "id": 7,
+    "rem": "JOVEM PAN NEWS",
     "numero": "07",
-    "nome": "JOVEM PAN NEWS",
-    "categoria": "Notícias",
-    "videoIds": [],
-    "playlistId": "UUP391YRAjSOdM_bwievgaZA",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUP391YRAjSOdM_bwievgaZA"
   },
   {
-    "id": 8,
+    "rem": "OS PINGOS NOS IS",
     "numero": "08",
-    "nome": "OS PINGOS NOS IS",
-    "categoria": "Opinião & Notícias",
-    "videoIds": [],
-    "playlistId": "UUzjtGnD7qqeaHW3nvDVrjQA",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUzjtGnD7qqeaHW3nvDVrjQA"
   },
   {
-    "id": 9,
+    "rem": "JORNAL DA RECORD",
     "numero": "09",
-    "nome": "JORNAL DA RECORD",
-    "categoria": "Notícias",
-    "videoIds": [],
-    "playlistId": "UUmpHPgeCBgvk_fDXZQKsnAA",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUmpHPgeCBgvk_fDXZQKsnAA"
   },
   {
-    "id": 10,
+    "rem": "BAND JORNALISMO",
     "numero": "10",
-    "nome": "BAND JORNALISMO",
-    "categoria": "Notícias",
-    "videoIds": [],
-    "playlistId": "UUoa-D_VfMkFrCYodrOC9-mA",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUoa-D_VfMkFrCYodrOC9-mA"
   },
   {
-    "id": 11,
+    "rem": "GLOBONEWS",
     "numero": "11",
-    "nome": "GLOBONEWS",
-    "categoria": "Notícias",
-    "videoIds": [],
-    "playlistId": "UUp6RRaz93Pt2xYZoEye_rLA",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUp6RRaz93Pt2xYZoEye_rLA"
   },
   {
-    "id": 12,
+    "rem": "REDETV",
     "numero": "12",
-    "nome": "REDETV",
-    "categoria": "TV Aberta",
-    "videoIds": [],
-    "playlistId": "UUd7VVhgnd2eCv9JEghvR_1w",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUb40meUp8tmOohWKaBWvs9w"
   },
   {
-    "id": 13,
+    "rem": "CBN BRASIL",
     "numero": "13",
-    "nome": "CBN BRASIL",
-    "categoria": "Notícias & Rádio",
-    "videoIds": [],
-    "playlistId": "UUbiGwU0-W1XCDUrt3BTVrag",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUbiGwU0-W1XCDUrt3BTVrag"
   },
   {
-    "id": 14,
+    "rem": "REVISTA OESTE",
     "numero": "14",
-    "nome": "REVISTA OESTE",
-    "categoria": "Opinião & Notícias",
-    "videoIds": [],
-    "playlistId": "UUBQAI1ZhurW3nbtJR-gBBZg",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUBQAI1ZhurW3nbtJR-gBBZg"
   },
   {
-    "id": 15,
+    "rem": "METRÓPOLES",
     "numero": "15",
-    "nome": "METRÓPOLES",
-    "categoria": "Notícias",
-    "videoIds": [],
-    "playlistId": "UU9mdw2mmn49ZuqGOpSri7Fw",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UU9mdw2mmn49ZuqGOpSri7Fw"
   },
   {
-    "id": 16,
+    "rem": "TV BRASIL",
     "numero": "16",
-    "nome": "TV BRASIL",
-    "categoria": "TV Pública",
-    "videoIds": [],
-    "playlistId": "UUSv9d0kQegylHWpP83jWSQg",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUSv9d0kQegylHWpP83jWSQg"
   },
   {
-    "id": 17,
+    "rem": "TV SENADO",
     "numero": "17",
-    "nome": "TV SENADO",
-    "categoria": "TV Pública",
-    "videoIds": [],
-    "playlistId": "UULgti7NuK0RuW9wty-fxPjQ",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UULgti7NuK0RuW9wty-fxPjQ"
   },
   {
-    "id": 18,
+    "rem": "TV CULTURA - PROGRAMAS",
     "numero": "18",
-    "nome": "TV CULTURA - PROGRAMAS",
-    "categoria": "Cultura & Acervo",
-    "videoIds": [],
-    "playlistId": "PLCZORdCI40WI",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLCZORdCI40WI"
   },
   {
-    "id": 20,
+    "rem": "CAZÉTV",
     "numero": "20",
-    "nome": "CAZÉTV",
-    "categoria": "Esportes",
-    "videoIds": [],
-    "playlistId": "UUZiYbVptd3PVPf4f6eR6UaQ",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUZiYbVptd3PVPf4f6eR6UaQ"
   },
   {
-    "id": 21,
+    "rem": "GLOBO ESPORTE (GE)",
     "numero": "21",
-    "nome": "GLOBO ESPORTE (GE)",
-    "categoria": "Esportes",
-    "videoIds": [],
-    "playlistId": "UUgCKagVhzGnZcuP9bSMgMCg",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUgCKagVhzGnZcuP9bSMgMCg"
   },
   {
-    "id": 22,
+    "rem": "TNT SPORTS",
     "numero": "22",
-    "nome": "TNT SPORTS",
-    "categoria": "Esportes",
-    "videoIds": [],
-    "playlistId": "UUs-6sCz2LJm1PrWQN4ErsPw",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUs-6sCz2LJm1PrWQN4ErsPw"
   },
   {
-    "id": 23,
+    "rem": "ESPN BRASIL",
     "numero": "23",
-    "nome": "ESPN BRASIL",
-    "categoria": "Esportes",
-    "videoIds": [],
-    "playlistId": "UUw5-xj3AKqEizC7MvHaIPqA",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUw5-xj3AKqEizC7MvHaIPqA"
   },
   {
-    "id": 24,
+    "rem": "JOVEM PAN ESPORTES",
     "numero": "24",
-    "nome": "JOVEM PAN ESPORTES",
-    "categoria": "Esportes",
-    "videoIds": [],
-    "playlistId": "UUv-Nx8pSfG_LxbViMz14RWQ",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUv-Nx8pSfG_LxbViMz14RWQ"
   },
   {
-    "id": 25,
+    "rem": "JOGO ABERTO",
     "numero": "25",
-    "nome": "JOGO ABERTO",
-    "categoria": "Esportes",
-    "videoIds": [],
-    "playlistId": "UUZaOZdn-Y-I5ikrofkWBLgQ",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUZaOZdn-Y-I5ikrofkWBLgQ"
   },
   {
-    "id": 26,
+    "rem": "SBT SPORTS",
     "numero": "26",
-    "nome": "SBT SPORTS",
-    "categoria": "Esportes",
-    "videoIds": [],
-    "playlistId": "UUXc3marqP9BJSkQ0_K4mqDg",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUXc3marqP9BJSkQ0_K4mqDg"
   },
   {
-    "id": 27,
+    "rem": "BAND ESPORTES",
     "numero": "27",
-    "nome": "BAND ESPORTES",
-    "categoria": "Esportes",
-    "videoIds": [],
-    "playlistId": "UU896QaWKoSGdZTmy9rHyU_g",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UU896QaWKoSGdZTmy9rHyU_g"
   },
   {
-    "id": 28,
+    "rem": "RED BULL TV",
     "numero": "28",
-    "nome": "RED BULL TV",
-    "categoria": "Esportes & Aventura",
-    "videoIds": [],
-    "playlistId": "UUblfuW_4rakIf2h6aqANefA",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUblfuW_4rakIf2h6aqANefA"
   },
   {
-    "id": 100,
+    "rem": "PROGRAMA DO RATINHO",
     "numero": "100",
-    "nome": "PROGRAMA DO RATINHO",
-    "categoria": "Auditório",
-    "videoIds": [],
-    "playlistId": "UU9JPNM6VyxUrmZb3SPp3zwA",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UU9JPNM6VyxUrmZb3SPp3zwA"
   },
   {
-    "id": 101,
+    "rem": "FOFOCALIZANDO",
     "numero": "101",
-    "nome": "FOFOCALIZANDO",
-    "categoria": "Entretenimento",
-    "videoIds": [],
-    "playlistId": "UUcYbSf9Zq381mIvEsesOTKA",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUcYbSf9Zq381mIvEsesOTKA"
   },
   {
-    "id": 102,
+    "rem": "THE NOITE",
     "numero": "102",
-    "nome": "THE NOITE",
-    "categoria": "Talk Show & Humor",
-    "videoIds": [],
-    "playlistId": "UUeWOoncsrmirqnFqxer9lmA",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "UUeWOoncsrmirqnFqxer9lmA"
   },
   {
-    "id": 103,
+    "rem": "SABADOU COM VIRGINIA",
     "numero": "103",
-    "nome": "SABADOU COM VIRGINIA",
-    "categoria": "Auditório",
-    "videoIds": [],
-    "playlistId": "PLdVc1RNcjHV2LQsTh4BAg8D-F0M__m5rz",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLdVc1RNcjHV2LQsTh4BAg8D-F0M__m5rz"
   },
   {
-    "id": 104,
+    "rem": "PROGRAMA DO JOÃO",
     "numero": "104",
-    "nome": "PROGRAMA DO JOÃO",
-    "categoria": "Auditório",
-    "videoIds": [],
-    "playlistId": "PLdVc1RNcjHV22jLjcw6MJoE51Rz15gEbp",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLdVc1RNcjHV22jLjcw6MJoE51Rz15gEbp"
   },
   {
-    "id": 105,
+    "rem": "EITA LUCAS!",
     "numero": "105",
-    "nome": "EITA LUCAS!",
-    "categoria": "Auditório & Humor",
-    "videoIds": [],
-    "playlistId": "PLdVc1RNcjHV1XVNBSadDixuvKTrqxSe_O",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLdVc1RNcjHV1XVNBSadDixuvKTrqxSe_O"
   },
   {
-    "id": 106,
+    "rem": "GABI QUASE PROIBIDA",
     "numero": "106",
-    "nome": "GABI QUASE PROIBIDA",
-    "categoria": "Talk Show",
-    "videoIds": [],
-    "playlistId": "PLdVc1RNcjHV1MGH2fWmmj3sNKRM5lRFuE",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLdVc1RNcjHV1MGH2fWmmj3sNKRM5lRFuE"
   },
   {
-    "id": 107,
+    "rem": "BARBIE TALKS",
     "numero": "107",
-    "nome": "BARBIE TALKS",
-    "categoria": "Talk Show",
-    "videoIds": [],
-    "playlistId": "PLdVc1RNcjHV1qXWSiAesu_SWVPgbStzGp",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLdVc1RNcjHV1qXWSiAesu_SWVPgbStzGp"
   },
   {
-    "id": 108,
+    "rem": "BOM DIA ESPERANÇA",
     "numero": "108",
-    "nome": "BOM DIA ESPERANÇA",
-    "categoria": "Entretenimento",
-    "videoIds": [],
-    "playlistId": "PLdVc1RNcjHV01_ifI_CgiTYPnnuZw2vU6",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLdVc1RNcjHV01_ifI_CgiTYPnnuZw2vU6"
   },
   {
-    "id": 109,
+    "rem": "PSS: SHOW DO MILHÃO",
     "numero": "109",
-    "nome": "PSS: SHOW DO MILHÃO",
-    "categoria": "Game Show",
-    "videoIds": [],
-    "playlistId": "PLJEMO2cSfTfgQ6t1wmgaFx60ne29CXfdJ",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLJEMO2cSfTfgQ6t1wmgaFx60ne29CXfdJ"
   },
   {
-    "id": 110,
+    "rem": "PSS: QUAL É A MÚSICA?",
     "numero": "110",
-    "nome": "PSS: QUAL É A MÚSICA?",
-    "categoria": "Game Show",
-    "videoIds": [],
-    "playlistId": "PLJEMO2cSfTfgx8E-1Su8lSuGTwnnzah7H",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLJEMO2cSfTfgx8E-1Su8lSuGTwnnzah7H"
   },
   {
-    "id": 111,
+    "rem": "PSS: JOGO DOS PONTINHOS",
     "numero": "111",
-    "nome": "PSS: JOGO DOS PONTINHOS",
-    "categoria": "Auditório",
-    "videoIds": [],
-    "playlistId": "PLJEMO2cSfTfjKaWiVgJ_KLl3GPXbgX7Xy",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLJEMO2cSfTfjKaWiVgJ_KLl3GPXbgX7Xy"
   },
   {
-    "id": 112,
+    "rem": "PSS: QUEM SABE MAIS",
     "numero": "112",
-    "nome": "PSS: QUEM SABE MAIS",
-    "categoria": "Game Show",
-    "videoIds": [],
-    "playlistId": "PLLlxkzeIZNTA",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLLlxkzeIZNTA"
   },
   {
-    "id": 113,
+    "rem": "PSS: NADA ALÉM DE 1 MINUTO",
     "numero": "113",
-    "nome": "PSS: NADA ALÉM DE 1 MINUTO",
-    "categoria": "Game Show",
-    "videoIds": [],
-    "playlistId": "PLJEMO2cSfTfgztm1LsF9AzPdKE4aydQJa",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLJEMO2cSfTfgztm1LsF9AzPdKE4aydQJa"
   },
   {
-    "id": 114,
+    "rem": "PSS: 60 ANOS",
     "numero": "114",
-    "nome": "PSS: 60 ANOS",
-    "categoria": "Especial & Nostalgia",
-    "videoIds": [],
-    "playlistId": "PLJEMO2cSfTfgCNBjKQwGkMghr3JKXt4WC",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLJEMO2cSfTfgCNBjKQwGkMghr3JKXt4WC"
   },
   {
-    "id": 115,
+    "rem": "A PRAÇA É NOSSA",
     "numero": "115",
-    "nome": "A PRAÇA É NOSSA",
-    "categoria": "Humor",
-    "videoIds": [],
-    "playlistId": "PLf52azhL7dBUw33CT_OfrSU90LiJ4vxWa",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLf52azhL7dBUw33CT_OfrSU90LiJ4vxWa"
   },
   {
-    "id": 116,
+    "rem": "CÂMERAS ESCONDIDAS",
     "numero": "116",
-    "nome": "CÂMERAS ESCONDIDAS",
-    "categoria": "Pegadinhas",
-    "videoIds": [],
-    "playlistId": "PLNSPiWvuc500zjlorn3h3S0rknRFgMQT5",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLNSPiWvuc500zjlorn3h3S0rknRFgMQT5"
   },
   {
-    "id": 117,
+    "rem": "SBT COMÉDIA",
     "numero": "117",
-    "nome": "SBT COMÉDIA",
-    "categoria": "Humor & Acervo",
-    "videoIds": [],
-    "playlistId": "PLdVc1RNcjHV3vCtGz5QL98CuEbMXhBiaS",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLdVc1RNcjHV3vCtGz5QL98CuEbMXhBiaS"
   },
   {
-    "id": 118,
+    "rem": "VIVA A NOITE",
     "numero": "118",
-    "nome": "VIVA A NOITE",
-    "categoria": "Nostalgia & Auditório",
-    "videoIds": [],
-    "playlistId": "PLdVc1RNcjHV3BdaIqWHlHayncw8J3Cp1s",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLdVc1RNcjHV3BdaIqWHlHayncw8J3Cp1s"
   },
   {
-    "id": 120,
+    "rem": "SESSÃO +SBT",
     "numero": "120",
-    "nome": "SESSÃO +SBT",
-    "categoria": "Filmes & Séries",
-    "videoIds": [],
-    "playlistId": "PLZPZySpGiJMM",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLZPZySpGiJMM"
   },
   {
-    "id": 121,
+    "rem": "QUEM VAI FICAR COM A MAMÃE?",
     "numero": "121",
-    "nome": "QUEM VAI FICAR COM A MAMÃE?",
-    "categoria": "Séries",
-    "videoIds": [],
-    "playlistId": "PLdVc1RNcjHV2CH3AtO6LagAU0xw6VKZga",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLdVc1RNcjHV2CH3AtO6LagAU0xw6VKZga"
   },
   {
-    "id": 122,
+    "rem": "CHAMADAS HISTÓRICAS",
     "numero": "122",
-    "nome": "CHAMADAS HISTÓRICAS",
-    "categoria": "Nostalgia TV",
-    "videoIds": [],
-    "playlistId": "PLdVc1RNcjHV1WA1r3Roux79YNaYq5KSVz",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLdVc1RNcjHV1WA1r3Roux79YNaYq5KSVz"
   },
   {
-    "id": 160,
+    "rem": "SÁBADO ANIMADO",
     "numero": "160",
-    "nome": "SÁBADO ANIMADO",
-    "categoria": "Kids",
-    "videoIds": [],
-    "playlistId": "PLaQTNGNvFDIOqoFl79uGUtHR-0QboZttd",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLaQTNGNvFDIOqoFl79uGUtHR-0QboZttd"
   },
   {
-    "id": 161,
+    "rem": "DOMINGO ANIMADO",
     "numero": "161",
-    "nome": "DOMINGO ANIMADO",
-    "categoria": "Kids",
-    "videoIds": [],
-    "playlistId": "PLaQTNGNvFDINOqk3HGnws2Fblg9MmoKkn",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLaQTNGNvFDINOqk3HGnws2Fblg9MmoKkn"
   },
   {
-    "id": 162,
+    "rem": "CARROSSEL ANIMADO",
     "numero": "162",
-    "nome": "CARROSSEL ANIMADO",
-    "categoria": "Kids",
-    "videoIds": [],
-    "playlistId": "PLaQTNGNvFDIM8TJauzp4yKB2dcN-WXTK3",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLaQTNGNvFDIM8TJauzp4yKB2dcN-WXTK3"
   },
   {
-    "id": 163,
+    "rem": "O PICA-PAU AMARELO",
     "numero": "163",
-    "nome": "O PICA-PAU AMARELO",
-    "categoria": "Kids & Séries",
-    "videoIds": [],
-    "playlistId": "PLJHfBUE4Wlt4",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLJHfBUE4Wlt4"
   },
   {
-    "id": 164,
+    "rem": "CÂMERA KIDS",
     "numero": "164",
-    "nome": "CÂMERA KIDS",
-    "categoria": "Kids & Pegadinhas",
-    "videoIds": [],
-    "playlistId": "PLaQTNGNvFDINkZLQqCYkLBk4l98R9zdXk",
-    "duracaoMinima": 10,
-    "legenda": false
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLaQTNGNvFDINkZLQqCYkLBk4l98R9zdXk"
+  },
+  {
+    "rem": "CÂMERA KIDS 2",
+    "numero": "165",
+    "videoIds": ["", ""],
+    "vinhetaPlaylistId": "",
+    "playlistId": "PLaQTNGNvFDINkZLQqCYkLBk4l98R9zdXk"
+  },
+  {
+    "rem": "TESTE VIMEO",
+    "numero": "166",
+    "plataforma": "vimeo",
+    "videoIds": ["76979871", "21611026"],
+    "vinhetaPlaylistId": "",
+    "playlistId": ""
   }
 ]
