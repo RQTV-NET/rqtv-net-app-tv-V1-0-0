@@ -13,7 +13,7 @@
   {
     "rem": "SBT",
     "numero": "02",
-    "videoIds": ["uLqXRKXOB8E", "8AgZp5Cd5ls"],
+    "videoIds": ["uLqXRKXOB8E", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UUR3TOnFWDeAlT-Ho6LueDmg"
   },
@@ -132,7 +132,7 @@
   {
     "rem": "CAZÉTV",
     "numero": "20",
-    "videoIds": ["", ""],
+    "videoIds": ["8AgZp5Cd5ls", ""],
     "vinhetaPlaylistId": "",
     "playlistId": "UUZiYbVptd3PVPf4f6eR6UaQ"
   },
